@@ -9,11 +9,11 @@ import './DonateSpace.scss';
 const DonateSpace = () => (
     <div className="DonateContainer">
         <div className="DonateAmountContainer">
-            <RadioButton className="content">1€</RadioButton>
-            <RadioButton className="content">2€</RadioButton>
-            <RadioButton className="content">5€</RadioButton>
-            <RadioButton className="content">10€</RadioButton>
-            <RadioButton className="content"><Input placeholder="Eigener Betrag"/></RadioButton>
+            <RadioButton name="donate" className="content">1€</RadioButton>
+            <RadioButton name="donate" className="content">2€</RadioButton>
+            <RadioButton name="donate" className="content">5€</RadioButton>
+            <RadioButton name="donate" className="content">10€</RadioButton>
+            <RadioButton name="donate" className="content"><Input placeholder="Eigener Betrag"/></RadioButton>
             <div className="content"/>
             <div className="content">Anonym spenden</div>
             <Checkbox toggleButton="true"/>
