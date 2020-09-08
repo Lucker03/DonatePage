@@ -8,8 +8,11 @@ import './milestone-bar.scss';
 
 const MilestoneBar = () => (
     <div className="barContainer">
-        <div className="barNow">28,40€</div>
-        <div className="barMile">100€</div>
+        <div className="loadbar"> </div>
+        <div className="donationValue">
+            <div className="barNow">50€</div>
+            <div className="barMile">100€</div>
+        </div>
     </div>
 );
 
