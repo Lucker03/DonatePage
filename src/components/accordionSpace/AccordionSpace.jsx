@@ -20,7 +20,7 @@ const AccordionSpace = () => (
                     />
                     <ListItem
                         title="Danke Anonymer Spender"
-                        image="https://chayns.tobit.com/storage/60038-22141/Images/icon-72.png"
+                        image="https://sub60.tobit.com/Content/unknown_user.png"
                         className="testItem"
                         circle
                     />
@@ -45,7 +45,7 @@ const AccordionSpace = () => (
                     />
                     <ListItem
                         title="Danke Anonymer Spender"
-                        image="https://chayns.tobit.com/storage/60038-22141/Images/icon-72.png"
+                        image="https://sub60.tobit.com/Content/unknown_user.png"
                         className="testItem"
                         circle
                     />
@@ -60,7 +60,7 @@ const AccordionSpace = () => (
                         title="Olaf Schubert"
                         subtitle="Danke für deine 5€ Spende"
                         // eslint-disable-next-line max-len
-                        image="https://images.generated.photos/5RFZayOBk2uIa_GlT_6aYWvQqE_lZh28BQRqNOvNlZM/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAxNzE4NDUuanBn.jpg"
+                        image="https://tappqa.tobit.com/training/2020/nd/DonatePageLytfass/Olaf_Schubert.jpg"
                         className="testItemArtist"
                         circle
                     />
@@ -73,7 +73,7 @@ const AccordionSpace = () => (
                 <List>
                     <ListItem
                         title="Olaf Schubert" // eslint-disable-next-line max-len
-                        image="https://images.generated.photos/5RFZayOBk2uIa_GlT_6aYWvQqE_lZh28BQRqNOvNlZM/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yz/XzAxNzE4NDUuanBn.jpg"
+                        image="https://tappqa.tobit.com/training/2020/nd/DonatePageLytfass/Olaf_Schubert.jpg"
                         className="testItemArtist"
                         circle
                     >

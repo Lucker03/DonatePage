@@ -1,27 +1,29 @@
 .barContainer {
     margin-top: 5px;
-    border: 5px solid rgba(0, 0, 255, 0.836);
+    border: 3px solid rgb(10, 10, 10);
     display: flex;
 }
 
 .loadbar {
     position: relative;
-    background: rgba(0, 0, 255, 0.486);
+    background: rgb(75, 75, 75);
+    border-right: 1px solid black;
     width: 50%;
 }
 
 .donationValue {
     display: flex;
     justify-content: space-between;
+    background: rgb(32, 32, 32);
     width: 50%;
 }
 
 .barNow {
     margin: 0 0 0 5px;
-    //font-size: 50px;
+    font-size: 15px;
 }
 
 .barMile {
     margin: 0 5px 0 0;
-    //font-size: 50px;
+    font-size: 15px;
 }
